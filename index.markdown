@@ -7,10 +7,6 @@ description: Arbeitskreis der Deutschen Gesellschaft für Geographie (DGfG)
 
 Der Arbeitskreis Geographie und Gesellschaftstheorie befasst sich mit den gesellschaftstheoretischen Bezügen geographischer Forschung.
 
-## Mailverteiler _akgeoges_
-
-Über den offenen Mailverteiler _akgeoges_ können sich Interessierte am Austausch zu Themen des Arbeitskreises beteiligen. [Hier können Sie sich für den Mailverteiler anmelden](https://list.uni-graz.at/mailman3/postorius/lists/akgeoges.list.uni-graz.at/){:target="_blank"}.
-
 ## Specher:innen
 
 Prof. Dr. Veronika Cummings \
@@ -29,9 +25,13 @@ Dr. Thilo Wiertz \
 Albert-Ludwigs-Universität Freiburg \
 [thilo.wiertz@geographie.uni-freiburg.de](mailto:thilo.wiertz@geographie.uni-freiburg.de)
 
+## Mailverteiler _akgeoges_
+
+Über den offenen Mailverteiler _akgeoges_ können sich Interessierte am Austausch zu Themen des Arbeitskreises beteiligen. [Hier können Sie sich für den Mailverteiler anmelden](https://list.uni-graz.at/mailman3/postorius/lists/akgeoges.list.uni-graz.at/){:target="_blank"}.
+
 ## Kontakt
 
-Bei Fragen zum Arbeitskreis und dem Internetauftritt wenden Sie sich bitte an [ak@geographie-gesellschaftstheorie.de](mailto:ak@geographie-gesellschaftstheorie.de)
+Bei Fragen zum Arbeitskreis und dem Internetauftritt wenden Sie sich bitte an die Sprecher:innen oder an [ak@geographie-gesellschaftstheorie.de](mailto:ak@geographie-gesellschaftstheorie.de)
 
 ## Impressum
 
