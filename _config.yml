@@ -23,7 +23,7 @@ description: Arbeitskreis der Deutschen Gesellschaft für Geographie (DGfG)
 email: ak@geographie-gesellschaftstheorie.de
 domain: geographie-gesellschaftstheorie.de
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://geographie-gesellschaftstheorie.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://geographie-gesellschaftstheorie.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wiertz
 
 github:
