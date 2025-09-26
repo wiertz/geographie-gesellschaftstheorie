@@ -5,7 +5,7 @@ description: Arbeitskreis der Deutschen Gesellschaft für Geographie (DGfG)
 
 ## Über den Arbeitskreis
 
-Der Arbeitskreis Geographie und Gesellschaftstheorie befasst sich mit den gesellschaftstheoretischen Bezügen geographischer Forschung.
+Der Arbeitskreis „Geographie und Gesellschaftstheorie“ befasst sich mit den gesellschaftstheoretischen Bezügen geographischer Forschung. Ziel ist es, gesellschaftstheoretisches Arbeiten in der Geographie zu Verankern und den Austausch über das Verhältnis von Geographie und Gesellschaftstheorie zu vertiefen. Dazu werden von den Mitgliedern des Arbeitskreises Konferenzen, Workshops und Fachsitzungen auf Kongressen organisiert. [Mehr über den AK...](about.md) 
 
 ## Specher:innen
 
