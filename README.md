@@ -1,3 +1,3 @@
 # AK Geographie und Gesellschaftstheorie
 
-Webseite des Arbeitskreises Geographie und Gesellschaftstheorie der Deutschen Gesellschaft für Geographie (DGfG)
+Webseite des [Arbeitskreises Geographie und Gesellschaftstheorie](http://geographie-gesellschaftstheorie.de) der Deutschen Gesellschaft für Geographie (DGfG)
