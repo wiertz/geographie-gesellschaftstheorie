@@ -7,6 +7,11 @@ description: Arbeitskreis der Deutschen Gesellschaft für Geographie (DGfG)
 
 Der Arbeitskreis „Geographie und Gesellschaftstheorie“ befasst sich mit den gesellschaftstheoretischen Bezügen geographischer Forschung. Ziel ist es, gesellschaftstheoretisches Arbeiten in der Geographie zu Verankern und den Austausch über das Verhältnis von Geographie und Gesellschaftstheorie zu vertiefen. Dazu werden von den Mitgliedern des Arbeitskreises Konferenzen, Workshops und Fachsitzungen auf Kongressen organisiert. [Mehr über den AK...](about.md) 
 
+
+## Berichte und Aktivitäten
+
+[**Wer ist das Subjekt im "Neuen Klimaregime"? Paneldiskussion auf der Tagung Neue Kulturgeographie in Augsburg am 02.10.2025** (Diskutierende: Sybille Bauriedl, Klaus Geiselhart, Matthew Hannah, Hanna Hilbrandt & Lucas Pohl)](posts/251002-panel-nkg-augsburg.md)
+
 ## Specher:innen
 
 Prof. Dr. Veronika Cummings \
